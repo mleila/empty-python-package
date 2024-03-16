@@ -1,12 +1,12 @@
 [project]
-name = "mytestpackage"
+name = "mcalc"
 version = "0.1.0"
-authors = [{name = "Mohamed Leila", email = "mohamed.laila@mail.mcgill.ca"}]
-description = "As simple Python package."
+authors = [{"name" = "Mohamed Leila", "email" = "mohamed.laila@mail.mcgill.ca"}]
+description = "A simple Python package."
 requires-python = ">=3.8"
 keywords = ["keyword1", "keyword2"]
 classifiers = [
-  "Programming Language :: Python :: 3",
+  "Programming Language :: Python : 3",
   "License :: OSI Approved :: MIT License"
 ]
 dependencies = [
