@@ -1,0 +1,1 @@
+[tool]\nname = \"mytestpackage\"\nversion = \"0.1.0\"\ndescription = \"A simple Python package.\"\nauthors = [\"Mohamed Leila <email@example.com>\"]\nrequires-python = \">= 3.6, < 6\"\n\n#[optional]\nrequireds-dist = []\n\n#[project urls]\nHomepage = \"https://github.com/mleila/empty-python-package\"\n
