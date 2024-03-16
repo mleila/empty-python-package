@@ -1,4 +1,4 @@
-from src.mcalc.multipy import multiply_list
+from mcalc.multiply import multiply_list
 
 
 def test_multiply_list():
