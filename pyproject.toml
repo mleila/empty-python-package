@@ -10,9 +10,9 @@ classifiers = [
   "License :: OSI Approved :: MIT License"
 ]
 dependencies = [
-  "hydra-core",
   "requests",
-  "numpy"
+  "numpy",
+  "hydra-core"
 }
 
 
