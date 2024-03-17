@@ -11,9 +11,9 @@ classifiers = [
 ]
 dependencies = [
   "requests",
-  "numpy"
-]
-
+  "numpy",
+  "hydra-core"
+}
 
 
 [build-system]
