@@ -11,7 +11,8 @@ classifiers = [
 ]
 dependencies = [
   "requests",
-  "numpy"
+  "numpy",
+  "diagrams"
 ]
 
 
